@@ -1,0 +1,19 @@
+{
+	"name": "loyiha",
+	"version": "1.0.0",
+	"description": "backend application",
+	"keywords": [
+		"NodeJS",
+		"ExpressJS"
+	],
+	"license": "ISC",
+	"author": "Azatbayeva Muharram",
+	"type": "commonjs",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "^5.1.0"
+	}
+}
